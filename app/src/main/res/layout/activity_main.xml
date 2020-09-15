@@ -197,6 +197,5 @@
         app:layout_constraintLeft_toLeftOf="parent"
         android:padding="10dp"
         android:textAlignment="center"
-
         />
 </androidx.constraintlayout.widget.ConstraintLayout>
